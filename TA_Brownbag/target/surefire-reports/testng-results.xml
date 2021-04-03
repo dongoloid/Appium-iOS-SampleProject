@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29133" started-at="2020-12-03T03:40:08Z" finished-at="2020-12-03T03:40:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29133" started-at="2020-12-03T03:40:08Z" finished-at="2020-12-03T03:40:38Z">
+      <class name="test.java.StoryLoader">
+        <test-method status="PASS" signature="run()[pri:0, instance:test.java.StoryLoader@7085bdee]" name="run" duration-ms="29121" started-at="2020-12-03T11:40:08Z" finished-at="2020-12-03T11:40:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- test.java.StoryLoader -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

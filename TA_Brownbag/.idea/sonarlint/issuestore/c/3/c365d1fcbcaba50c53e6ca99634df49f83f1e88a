@@ -1,0 +1,25 @@
+
+o
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶Ž»É
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Õð…ú
+L
+java:S2696,"6Make the enclosing method "static" or remove this set.(¶Ž»É
+L
+java:S2696-"6Make the enclosing method "static" or remove this set.(•ôÓñ
+v
+java:S1450"[Remove the "capabilities" field and declare it as a local variable in the relevant methods.(È£Šäýÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(ÐÕëêùÿÿÿÿ
+f	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‡°
+m
+java:S1450"RRemove the "URL" field and declare it as a local variable in the relevant methods.(Á›¸Úøÿÿÿÿ
+>
+java:S1068"(Remove this unused "wait" private field.(Õ Âã
+i
+java:S1450"SRemove the "wait" field and declare it as a local variable in the relevant methods.(Õ Âã
+i
+java:S3008"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á›¸Úøÿÿÿÿ
+L
+java:S26964"6Make the enclosing method "static" or remove this set.(–ˆôç
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(ŸÕ¾³ýÿÿÿÿ
